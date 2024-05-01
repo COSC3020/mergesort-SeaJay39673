@@ -15,3 +15,8 @@ part of the array each recursive call considers.
 Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
+
+### Answer:
+Not in your class, I just really like algorithms and want the approval.
+
+Pretty sure the time complexity is $\mathcal{O}(n^2\cdot log(n))$
